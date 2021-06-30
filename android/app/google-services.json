@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "176762789229",
+    "firebase_url": "https://fir-pdf-62ff0-default-rtdb.firebaseio.com",
+    "project_id": "fir-pdf-62ff0",
+    "storage_bucket": "fir-pdf-62ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176762789229:android:7e480bb1e4e7b16d5a8e64",
+        "android_client_info": {
+          "package_name": "com.example.firebasepdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176762789229-jojn7gma1e4l65nu1dokaqn2rpb1fkgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVkYaizROXAV3n29lMvlD4-9q49hK78k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176762789229-jojn7gma1e4l65nu1dokaqn2rpb1fkgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176762789229:android:cc78a60c91e3e4945a8e64",
+        "android_client_info": {
+          "package_name": "com.example.ncert1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176762789229-jojn7gma1e4l65nu1dokaqn2rpb1fkgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVkYaizROXAV3n29lMvlD4-9q49hK78k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176762789229-jojn7gma1e4l65nu1dokaqn2rpb1fkgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
